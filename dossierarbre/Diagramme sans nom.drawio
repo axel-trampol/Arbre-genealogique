@@ -297,13 +297,23 @@
         <mxCell id="kagoHJnGD3eaC9wcIFf_-58" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="30" />
-              <mxPoint x="550" y="30" />
-              <mxPoint x="550" y="80" />
-              <mxPoint x="470" y="80" />
+              <mxPoint x="700" />
+              <mxPoint x="550" />
+              <mxPoint x="550" y="50" />
+              <mxPoint x="470" y="50" />
             </Array>
-            <mxPoint x="710" y="40" as="sourcePoint" />
-            <mxPoint x="470" y="60" as="targetPoint" />
+            <mxPoint x="710" y="10" as="sourcePoint" />
+            <mxPoint x="470" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kagoHJnGD3eaC9wcIFf_-60" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="40" />
+              <mxPoint x="770" y="40" />
+            </Array>
+            <mxPoint x="630" y="60" as="sourcePoint" />
+            <mxPoint x="770" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
